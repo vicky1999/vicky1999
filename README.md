@@ -1,5 +1,5 @@
 ### Hi there 👋
-<b>OPEN SOURCE WINS</b>
+<b>OPEN SOURCE HAS WON</b>
 
 - 🔭 I’m currently working on ... Open Source
 - 🌱 I’m currently learning ... Open Source
