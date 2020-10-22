@@ -9,8 +9,6 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Programming is fun**
 
-<img src="https://github-profile-trophy.vercel.app/?username=vicky1999&theme=onedark&column=6" width="100%">
-
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=green)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=blue&color=green)
@@ -20,6 +18,8 @@
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=informational)
 ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=ff69b4&color=informational)
 <hr />
+
+<img src="https://github-profile-trophy.vercel.app/?username=vicky1999&theme=monokai&column=6" width="100%">
 
 <a href="https://github.com/vicky1999?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vicky1999&show_icons=true&line_height=27&count_private=true&title_color=blue&text_color=c9cacc&icon_color=skyblue&bg_color=1d1f21" alt="My GitHub Stats" />
