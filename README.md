@@ -1,5 +1,15 @@
-# Hello, folks!
-I am Vignesh.  I'm from India.  I'm interested in Machine Learning, Deep Learning, Full Stack Development, and Game Development.
+### Hi there, I'm Vignesh 👋
+
+- 🔭 I’m currently working on **Open Source Projects**
+- 🌱 I’m currently learning **GAN**
+- 👯 I’m looking to collaborate on **Open Source projects**
+- 🤔 I’m looking for help with **Testing**
+- 💬 Ask me about **Game Development | Deep Learning**
+- 📫 How to reach me:   **[Linkedin](https://www.linkedin.com/in/vignesh-ravi-886271121/) | :email: ravivignesh2000@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **Programming is fun**
+
+<img src="https://github-profile-trophy.vercel.app/?username=vicky1999&theme=onedark&column=6" width="100%">
 
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=green)
