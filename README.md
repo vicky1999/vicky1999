@@ -26,6 +26,6 @@
 </a>
 
 <a href="https://github.com/vicky1999">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky1999&langs_count=10&layout=compact&title_color=blue&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=NewsAR,Ball-Crash,egg-fall,salad-chef" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky1999&langs_count=10&layout=compact&title_color=blue&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=NewsAR,Ball-Crash,egg-fall,salad-chef,30-minutes-gamejam" />
 </a>
 <hr />
