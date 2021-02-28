@@ -1,7 +1,7 @@
 ### Hi there, I'm Vignesh 👋
 
 - 🔭 I’m currently working on **Open Source Projects**
-- 🌱 I’m currently learning **GAN**
+- 🌱 I’m currently learning **Deep Learning**
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 🤔 I’m looking for help with **Testing**
 - 💬 Ask me about **Game Development | Deep Learning**
