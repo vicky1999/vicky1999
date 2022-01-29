@@ -19,13 +19,14 @@
 <hr />
 
 <img src="https://github-profile-trophy.vercel.app/?username=vicky1999&theme=monokai&column=7" width="100%">
-
-<a href="https://github.com/vicky1999?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vicky1999&show_icons=true&line_height=27&count_private=true&title_color=blue&text_color=c9cacc&icon_color=skyblue&bg_color=1d1f21&include_all_commits=true" alt="My GitHub Stats" />
-</a>
-<a href="https://github.com/vicky1999">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky1999&langs_count=10&layout=compact&title_color=blue&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=NewsAR,Ball-Crash,egg-fall,salad-chef" />
-</a>
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://github.com/vicky1999?tab=repositories">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vicky1999&show_icons=true&line_height=27&count_private=true&title_color=blue&text_color=c9cacc&icon_color=skyblue&bg_color=1d1f21&include_all_commits=true" alt="My GitHub Stats" />
+  </a>
+  <a href="https://github.com/vicky1999">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky1999&langs_count=10&layout=compact&title_color=blue&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=NewsAR,Ball-Crash,egg-fall,salad-chef" />
+  </a>
+</div>
 <hr/>
 
 <summary><b>🔥 Github Streaks</b></summary>
