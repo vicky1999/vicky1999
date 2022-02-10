@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with **Testing**
 - 💬 Ask me about **Game Development | Full Stack Development | Deep Learning**
 - 📫 How to reach me:   **[Linkedin](https://www.linkedin.com/in/vignesh-ravi-886271121/)  | :email: ravivignesh2000@gmail.com**
-- ⚡ Fun fact: **Programming is fun**
+- ⚡ Fun fact: **Programming is fun!**
 
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=green)
