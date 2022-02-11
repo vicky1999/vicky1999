@@ -1,6 +1,6 @@
 ### Hi there, I'm Vignesh 👋
 
-- 🔭 I’m currently working on **Open Source Projects**
+- 🔭 I’m currently working on **Open Source**
 - 🌱 I’m currently learning **Deep Learning**
 - 👯 I’m looking to collaborate on **Open Source**
 - 🤔 I’m looking for help with **Testing**
