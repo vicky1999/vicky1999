@@ -8,6 +8,8 @@
 - 📫 How to reach me:   **[Linkedin](https://www.linkedin.com/in/vignesh-ravi-886271121/)  | :email: ravivignesh2000@gmail.com**
 - ⚡ Fun fact: **Programming is fun!**
 
+<hr/>
+
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=green)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=blue&color=green)
