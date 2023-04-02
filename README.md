@@ -33,6 +33,7 @@
 <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vicky1999&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=3DCD64&fire=3DCD64&currStreakLabel=3DCD64" alt="Vignesh Ravindran" /></p>
 
+<hr />
 
 
 
