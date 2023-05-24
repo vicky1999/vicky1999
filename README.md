@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=informational)
 ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=ff69b4&color=informational)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=skyblue&color=informational)
 <hr />
 
 <img src="https://github-profile-trophy.vercel.app/?username=vicky1999&theme=monokai&column=7" width="100%">
